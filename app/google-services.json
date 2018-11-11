@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "989104775162",
+    "firebase_url": "https://homeauto1998.firebaseio.com",
+    "project_id": "homeauto1998",
+    "storage_bucket": "homeauto1998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989104775162:android:cdd6b1deeae074c2",
+        "android_client_info": {
+          "package_name": "com.example.kalya.teecha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989104775162-f6cjod8p5r4onrm1u044peoi3mutenru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kalya.teecha",
+            "certificate_hash": "b5cf1e32632af325d46ba1c9a274f297e7336e09"
+          }
+        },
+        {
+          "client_id": "989104775162-j9307qm7rfm6sadgr1mgso3ng1inb8ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt57Vva0WL8JdsfwC9S6jITb6Iqaz7dhE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989104775162-j9307qm7rfm6sadgr1mgso3ng1inb8ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
